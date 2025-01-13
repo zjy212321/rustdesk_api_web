@@ -21,7 +21,7 @@ export const useAppStore = defineStore({
   id: 'App',
   state: () => ({
     setting: {
-      title: 'Rustdesk-Api-Admin',
+      title: 'UrekaGoDesk-Api-Admin',
       hello: '',
       sideIsCollapse: false,
       logo,
